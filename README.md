@@ -1,5 +1,9 @@
 # Hosting a Full-Stack Application
 
+#### Hosted website link: http://http://tus-udagram.s3-website-us-east-1.amazonaws.com/
+#### Hosted backend on EB link: http://udagram-api-dev.eba-vzaavb6j.us-east-1.elasticbeanstalk.com
+#### Hosted DB on RDS host: database-1.cvgdct6qidh7.us-east-1.rds.amazonaws.com
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
